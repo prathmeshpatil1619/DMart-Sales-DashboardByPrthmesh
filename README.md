@@ -1,8 +1,11 @@
-# DMart-Sales-DashboardByPrthmesh
-Interactive Sales Dashboard for DMart Built in PowerBI using Power Query for ETL, Data cleaning, and visualization. Provides insights into orders, sales trends, customer distribution, payments, and subscriptions
-📊 Project: DMart Sales Dashboard (Power BI)
+📊 DMart-Sales-Dashboard By Prathmesh
 
-This project explores DMart sales performance using Power BI with Power Query (ETL) for data cleaning and transformation.
+Interactive Sales Dashboard for DMart built in Power BI using Power Query (ETL) for data cleaning and transformation.
+The dashboard provides insights into orders, sales trends, customer distribution, payments, and subscriptions.
+
+📌 Project Overview
+
+This project explores DMart sales performance using Power BI.
 The dashboard provides interactive insights into:
 
 Total Orders, Cancel Orders, Customers, and Shipping Cost
@@ -31,7 +34,7 @@ Combined datasets using Append Queries.
 
 2. Data Cleaning
 
-Removed duplicate entries (customer IDs, order IDs).
+Removed duplicate entries (Customer IDs, Order IDs).
 
 Handled missing values:
 
@@ -71,17 +74,17 @@ KPIs: Total Sales, MTD Sales, YTD Sales, OTD Sales
 
 Visuals Used:
 
-Line Chart → Sales Trend
+📉 Line Chart → Sales Trend
 
-Stacked Column/Bar Chart → Payment Insights
+📊 Stacked Column/Bar Chart → Payment Insights
 
-Pie Chart → Order Status Distribution
+🥧 Pie Chart → Order Status Distribution
 
-Map Visual → Customer Distribution by Location
+🗺 Map Visual → Customer Distribution by Location
 
-Gauge → Average Rating
+🎯 Gauge → Average Rating
 
-Stacked Bar → Subscription-wise Sales
+📊 Stacked Bar → Subscription-wise Sales
 
 🛠 Tools & Technologies
 
@@ -94,10 +97,7 @@ DAX (Data Analysis Expressions) (Calculated Columns & Measures)
 Data Sources: Synthetic DMart dataset (CSV/Excel)
 
 📸 Preview
-
-(<img width="1785" height="745" alt="Screenshot 2025-09-20 004311" src="https://github.com/user-attachments/assets/280df2ff-45b7-422d-9574-85471bcfc7fa" />
-)
-
+<img width="1785" height="745" alt="DMart Dashboard Preview" src="https://github.com/user-attachments/assets/280df2ff-45b7-422d-9574-85471bcfc7fa" />
 📜 License
 
-MIT License (freely usable with attribution).
+MIT License – Freely usable with attribution.
